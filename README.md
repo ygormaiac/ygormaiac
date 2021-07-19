@@ -1,8 +1,8 @@
-- 👋 Olá, me chamo Ygor Maia, sou de Fortaleza e atualmente sou estudante de desenvolvimento web na Trybe;
-- 👀 Me interesso por conhecimentos em tecnologias como React, Angular, Bootstrap e Javascript;
-- 🌱 Sempre disposto a aprender e ajudar os que estão ao meu redor;
-- 💞️ Meus hobbies são filmes, cafés e viagens;
-- 📫 Envie um email para ygormaiaa1@gmail.com para me encontrar.
+- 👋  Olá, me chamo Ygor Maia, sou de Fortaleza e atualmente sou estudante de desenvolvimento web na Trybe;
+- 👀  Me interesso por conhecimentos em tecnologias como React, Angular, Bootstrap e Javascript;
+- 🌱  Sempre disposto a aprender e ajudar os que estão ao meu redor;
+- 💞️  Meus hobbies são filmes, cafés e viagens;
+- 📫  Envie um email para ygormaiaa1@gmail.com para me encontrar.
 
 Nos meus repositórios você encontrará exercícios e projetos realizados na Trybe. :grin:
 
