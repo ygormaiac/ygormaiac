@@ -1,8 +1,16 @@
-- 👋  Olá, me chamo Ygor Maia, sou de Fortaleza e atualmente sou estudante de desenvolvimento web na Trybe;
-- 🌱  Sempre disposto a aprender e ajudar os que estão ao meu redor;
-- 💞️  Meus hobbies são filmes, cafés e viagens;
 
-Nos meus repositórios você encontrará exercícios e projetos realizados na Trybe. :grin:
+ Hi there! Me chamo **Ygor Maia**! 
+<div align="center">
+  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
+  <div align="left" style="display: inline_block">
+    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
+    <li>- 🌱 Aprendendo SGBD-MySQL</li>
+    <li>- 💬 Me pergunte sobre tecnologia, café, viagens e vinho..</li>
+    <li>- 😄 Pronomes: ele/dele</li>
+    <li>- ⚡ Fun fact: meu maior hobby da vida é viajar!</li>
+  </div>
+</div>
+<hr>
 
 <!---
 ygormaiac/ygormaiac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +29,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Ygor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
   <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
   <img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
+  <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <h2></h2>
 </a><div><a href="https://github.com/ygormaiac"> 
