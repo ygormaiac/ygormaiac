@@ -8,6 +8,12 @@
     <li>- 💬 Me pergunte sobre tecnologia, café, viagens e vinho..</li>
     <li>- 😄 Pronomes: ele/dele</li>
     <li>- ⚡ Fun fact: meu maior hobby da vida é viajar!</li>
+    <hr>
+    <p>Desenvolvedor Frontend, com vivência em tecnologias como: React, gerenciamento de estado com Redux, Javascript, HTML, CSS/SASS/SCSS e Bootstrap. Me aprofundando em testes unitários, RTL, Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban.
+
+Também cursando Análise e Desenvolvimento de Sistemas na Uni7.
+
+Quero colaborar com o crescimento da área através dos meus conhecimentos, proatividade e juntamente com isso, desenvolver as minhas competências.</p>
   </div>
 </div>
 <hr>
