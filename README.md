@@ -4,14 +4,14 @@
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo SGBD-MySQL</li>
+    <li>- 🌱 React, Typescript, NextJs, NodeJs, SQL Server</li>
     <li>- 💬 Me pergunte sobre tecnologia, café, viagens e vinho..</li>
     <li>- 😄 Pronomes: ele/dele</li>
     <li>- ⚡ Fun fact: meu maior hobby da vida é viajar!</li>
     <hr>
-    <p>Desenvolvedor Frontend, com vivência em tecnologias como: React, gerenciamento de estado com Redux, Javascript, HTML, CSS/SASS/SCSS e Bootstrap. Me aprofundando em testes unitários, RTL, Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban.
+    <p>Desenvolvedor Frontend, com vivência em tecnologias como: React, gerenciamento de estado com Redux, Javascript, HTML, CSS/SASS/SCSS e Bootstrap. Me aprofundando em testes unitários, RTL, Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban. Atualmente, estudando backend com foco em NodeJs.
 
-Também cursando Análise e Desenvolvimento de Sistemas na Uni7.
+Também cursando Análise e Desenvolvimento de Sistemas na Faculdade CDL.
 
 Quero colaborar com o crescimento da área através dos meus conhecimentos, proatividade e juntamente com isso, desenvolver as minhas competências.</p>
   </div>
