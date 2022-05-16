@@ -9,7 +9,12 @@
     <li>- 😄 Pronomes: ele/dele</li>
     <li>- ⚡ Fun fact: meu maior hobby da vida é viajar!</li>
     <hr>
-    <p>Desenvolvedor Frontend, com vivência em tecnologias como: React, gerenciamento de estado com Redux, Javascript, HTML, CSS/SASS/SCSS e Bootstrap. Me aprofundando em testes unitários, RTL, Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban. Atualmente, estudando backend com foco em NodeJs.
+    <p>
+Desenvolvedor de Software com foco em tecnologias como: React, Typescript, NextJs, Javascript, HTML, CSS/SASS, Bootstrap, Wordpress e Salesforce. Na camada de backend, banco de dados relacionais e não-relacionais, NodeJs e Express. Me aprofundando em Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban e Jira.
+
+Tive experiência na construção de marketplaces, desenvolvendo áreas de compra e interfaces digitais de ensino para professores e alunos. Minhas stacks principais nesse projeto foram React, Typescript, NextJs, CSS e Chakra UI.
+
+Atualmente trabalho como Desenvolvedor Frontend no departamento de marketing, onde o foco é construir landing pages e aplicações para diversos tipos de campanhas comerciais com foco em experiência do usuário. As principais tecnologias utilizadas são React, Typescript, Wordpress, Salesforce Marketing Cloud, SCSS, Google Analytics, Google Tag Manager e NextJs.
 
 Também cursando Análise e Desenvolvimento de Sistemas na Faculdade CDL.
 
