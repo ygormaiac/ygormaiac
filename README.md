@@ -6,8 +6,6 @@
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 React, Typescript, NextJs, NodeJs, SQL Server</li>
     <li>- 💬 Me pergunte sobre tecnologia, café, viagens e vinho..</li>
-    <li>- 😄 Pronomes: ele/dele</li>
-    <li>- ⚡ Fun fact: meu maior hobby da vida é viajar!</li>
     <hr>
     <p>
 Desenvolvedor de Software com foco em tecnologias como: React, Typescript, NextJs, Javascript, HTML, CSS/SASS, Bootstrap, Wordpress e Salesforce. Na camada de backend, banco de dados relacionais e não-relacionais, NodeJs e Express. Me aprofundando em Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban e Jira.
