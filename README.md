@@ -3,18 +3,17 @@
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 React, Typescript, NextJs, NodeJs, SQL Server</li>
+    <li>- 🌱 React, Typescript, NextJs, Ruby on Rais</li>
     <li>- 💬 Me pergunte sobre tecnologia, café, viagens e vinho..</li>
     <hr>
     <p>
-Desenvolvedor de Software com foco em tecnologias como: React, Typescript, NextJs, Javascript, HTML, CSS/SASS, Bootstrap, Wordpress e Salesforce. Na camada de backend, banco de dados relacionais e não-relacionais, NodeJs e Express. Me aprofundando em Jest e Cypress. Conhecimento em metodologias ágeis como Scrum/Kanban e Jira.
+Desenvolvedor de Software com foco em tecnologias como: React, Typescript, NextJs, Javascript, HTML, CSS/SASS, Bootstrap, Wordpress, Salesforce e testes unitários com Jest. Na stack de backend, me aprofundando em Ruby on Rails. Conhecimento em metodologias ágeis como Scrum/Kanban e Jira.
 
 Tive experiência na construção de marketplaces, desenvolvendo áreas de compra e interfaces digitais de ensino para professores e alunos. Minhas stacks principais nesse projeto foram React, Typescript, NextJs, CSS e Chakra UI.
 
-Atualmente trabalho como Desenvolvedor Frontend no departamento de marketing, onde o foco é construir landing pages e aplicações para diversos tipos de campanhas comerciais com foco em experiência do usuário. As principais tecnologias utilizadas são React, Typescript, Wordpress, Salesforce Marketing Cloud, SCSS, Google Analytics, Google Tag Manager e NextJs.
+Atualmente trabalho como Software Engineer na BU de Growth da RD Station, onde o foco é construir experimentos para alavancar a receita das nossas diferentes features presentes na plataforma e também gerar impacto na MRR de acordo com a nossas entregas finais aos clientes. As principais tecnologias utilizadas são React, Javascript, Styled Components, Ruby on Rails e Segment.
 
-Também cursando Análise e Desenvolvimento de Sistemas na Faculdade CDL.
+Também cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Farias Brito.
 
 Quero colaborar com o crescimento da área através dos meus conhecimentos, proatividade e juntamente com isso, desenvolver as minhas competências.</p>
   </div>
