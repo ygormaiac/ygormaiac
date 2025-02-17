@@ -6,15 +6,13 @@
     <li>- 💬 Me pergunte sobre tecnologia, café, viagens e vinho..</li>
     <hr>
     <p>
-Desenvolvedor de Software com foco em tecnologias como: React, Typescript, NextJs, Javascript, HTML, CSS/SASS, Bootstrap, Wordpress, Salesforce e testes unitários com Jest. Na stack de backend, me aprofundando em Ruby on Rails. Conhecimento em metodologias ágeis como Scrum/Kanban e Jira.
+Sou um engenheiro de software com 4+ anos de experiência no desenvolvimento de aplicações web de alta qualidade utilizando React e TypeScript, além de 2+ anos com Ruby on Rails. Apaixonado por aprender e me desenvolver constantemente, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos no dinâmico universo do desenvolvimento de software.
 
-Tive experiência na construção de marketplaces, desenvolvendo áreas de compra e interfaces digitais de ensino para professores e alunos. Minhas stacks principais nesse projeto foram React, Typescript, NextJs, CSS e Chakra UI.
+Atuo na área de Product Growth, com foco em desenvolver e otimizar experimentos de A/B Testing e implementar melhorias nas frentes de Aquisição, Onboarding e Retenção. Tenho expertise na integração de tracking com ferramentas como Segment, Analytics, Hotjar e Mixpanel, além de realizar a análise de dados de experimentos. Também sou responsável por monitorar erros e bugs utilizando Datadog e Rollbar, sempre com o objetivo de aprimorar a experiência do usuário e maximizar a monetização dos produtos.
 
-Atualmente trabalho como Software Engineer na BU de Growth da RD Station, onde o foco é construir experimentos para alavancar a receita das nossas diferentes features presentes na plataforma e também gerar impacto na MRR de acordo com a nossas entregas finais aos clientes. As principais tecnologias utilizadas são React, Javascript, Styled Components, Ruby on Rails e Segment.
+Além disso, trabalho com microfrontends, o que me permite desenvolver soluções modulares e escaláveis, e tenho experiência na construção e manutenção de design systems, assegurando consistência e eficiência na criação de interfaces de usuário.
 
-Também cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Farias Brito.
-
-Quero colaborar com o crescimento da área através dos meus conhecimentos, proatividade e juntamente com isso, desenvolver as minhas competências.</p>
+Comprometido com a entrega de soluções eficientes, sustentáveis e orientadas para o desempenho, mantenho um forte foco em testes automatizados e boas práticas de engenharia. Com uma abordagem proativa para resolução de problemas e uma forte dedicação à excelência, tenho sucesso em colaborar com equipes multidisciplinares em ambientes ágeis e dinâmicos.
   </div>
 </div>
 <hr>
